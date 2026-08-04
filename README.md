@@ -3,7 +3,7 @@
 
 **Desenvolvedor FullStack**
 
-Olá! Me chamo **Ygor**, tenho 20 anos e sou natural de Paraguaçu Paulista. Concluí o ensino médio no **CENE** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS) – 3º semestre** na **FEMA**.  
+Olá! Me chamo **Ygor**, tenho 20 anos e sou natural de Paraguaçu Paulista. Concluí o ensino médio no **CENE** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas (ADS) – 4º semestre** na **FEMA**.  
 Sou apaixonado por tecnologia e compartilho meus projetos aqui no GitHub.
 
 <p>
